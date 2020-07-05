@@ -9,7 +9,11 @@ If you're looking for code examples, take a look at the [code examples](https://
 
 ## 1. How to contribute
 
-We are looking for your favorite resources and new problem sets, as well as code examples in any language. If you've never contributed to open-source before, let this be your first contribution! [Here's a step by step reference](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) to contributing.
+We are looking for your favorite resources and new problem sets, as well as code examples in any language. If you've never contributed to open-source before, let this be your first contribution! Below are step by step reference readings and YouTube vidoes that will help you to start contributing.
+
+- [The beginner's guide to contributing to a GitHub project, Rob Allen's DevNotes](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
+- [Contributing to Open Source for the first time YouTube video by Facebook Open Source](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW).
+-
 
 ---
 
