@@ -13,7 +13,6 @@ We are looking for your favorite resources and new problem sets, as well as code
 
 - [The beginner's guide to contributing to a GitHub project, Rob Allen's DevNotes](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
 - [Contributing to Open Source for the first time YouTube video by Facebook Open Source](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW).
-- [Contributing to Open Source for the first time YouTube video by Facebook Open Source](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW).
 - [Contributing to Open Source on GitHub for beginners by Kent C. Dodds](https://www.youtube.com/watch?v=k6KcaMffxac&t=2503s)
 
 ---
