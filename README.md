@@ -36,7 +36,13 @@ These are a list of free online textbooks, video lectures, and visualizations. I
    - This channel simplify the core fundamental computer programming concepts and creatively use illustaions to walk through the examples.
 
 3. [Algorithms Course by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O).
-   - In this beginner friendly course, Abdul covers algorithms as a subject, writes all the concepts on whiteboard provides ample example codes and explains concepts along the way. This video series consists of 10 x Sections in total and has total 89 vidoes. He covers starting the basics of Algorithms, frequency of count method, time complexity, recurrsion, binary search, various sorting algorithms, greedy method, dynamic programming, graph trasversals, backtracking, branch and bound, and others. This video series is beginner friendly and is great for all types of learners who come from various backgrounds including computer science students, self-learners to coding bootcamp students and gradudates.
+
+   - In this beginner friendly course, Abdul covers algorithms as a subject, writes all the concepts on whiteboard provides ample example codes and explains concepts along the way.
+
+     - This video series consists of 10 x Sections in total and has total 89 vidoes.
+     - The topics covered are the basics of Algorithms, frequency of count method, time complexity, recurrsion, binary search, various sorting algorithms, greedy method, dynamic programming, graph trasversals, backtracking, branch and bound, and others.
+
+   - This video series is beginner friendly and is great for all types of learners who come from various backgrounds including computer science students, self-learners to coding bootcamp students and gradudates.
 
 ### 2c. Free Courses
 
