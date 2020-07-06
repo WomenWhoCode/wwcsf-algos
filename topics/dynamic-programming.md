@@ -10,6 +10,7 @@ ___
 
 ## Resources
 
+* [Memoization and Dynamic Programming Video](https://youtu.be/P8Xa2BitN3I): A really helpful video that builds up to DP from recursion and memoization, by Gayle Laakmann McDowell, author of Cracking the Coding Interview.
 * [Dynamic programming article on GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/): A comprehensive overview of concepts and techniques, with links to **many** problems sorted by difficulty. Solution problems contain code examples in C++, Java, Python3, C#, and PHP.
 * [List of Top 20 DP Interview Questions on Geeks for Geeks](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/): Mixed difficulty.
 * [VisuoAlgo Recursion Tree](https://visualgo.net/en/recursion?slide=1): Visualizes the recrusive calls in tree form and in graph form for common recursive and dynamic programming procedures. Be sure to run the "Recursion DAG (DP)" visualization.
