@@ -27,9 +27,14 @@ These are a list of free online textbooks, video lectures, and visualizations. I
 2. [Python DS, Brad Miller and David Ranum](https://runestone.academy/runestone/books/published/pythonds/index.html): Data Structures textbook in Python.
 3. [Open Data Structures, Pat Morin](https://opendatastructures.org/ods-python/): Data structures textbook in pseudocode.
 4. [Think Data Structures, Allen B. Downey](http://greenteapress.com/thinkdast/thinkdast.pdf): Data structures textbook in Java.
+<<<<<<< HEAD
 5. [Think Python, Allen B. Downey](http://greenteapress.com/thinkpython2/html/index.html): Intro programming textbook in Python, with chapters relevant to algorithms and data structures.
 
 ### 2b. Video Lectures
+=======
+5. [Think Python, Allen B. Downey](http://greenteapress.com/thinkpython2/html/index.html): Intro programming textbook in Python, with chapters relevant to algorithms and data structures. 
+6. [Algorithms, Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/): An Algorithms textbook by a professor at  University of Illinois, Urbana-Champaign.
+>>>>>>> ad12da15ca933709bd2e544fe4deffb14218425b
 
 1. [Harvard CS50 Lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW).
 
