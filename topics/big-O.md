@@ -3,7 +3,7 @@
 ## Resources
 
 - [Stanford CS106b handout](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1176/handouts/midterm/5-BigO.pdf): This handout walks through how to big - O complexity for loops and recursion.
-- [Algorithms Course by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O): Big -O concepts and time complexity are covered in Section 1 of the YouTube series and it contains 17 vidoes. Abdul uses for and while loops, and uses **frequency of count method** to illustrate time complexity and calculations. Topics covered are as follow:
+- [Algorithms Course by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O): Big -O concepts and time complexity are covered in Section 1 of the YouTube series. Topics covered are as follow:
 
 | No     | Topics                                                            |
 | ------ | ----------------------------------------------------------------- |
