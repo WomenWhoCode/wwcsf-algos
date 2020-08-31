@@ -13,6 +13,8 @@ ___
 ### 1. Basics and terminology
 * [Harvard CS50 2019 Data Structures lecture](https://www.youtube.com/watch?v=4IrUAqYKjIA&t=4104s) You can skip ahead to 1:09:32 for trees, but I recommend watching the lecture from the beginning. The language is C, but the explanation and examples don't depend on a knowledge of C. 
 * Helpful list of terms and definitions from wikiversity: https://en.wikiversity.org/wiki/Data_Structures_and_Algorithms/Trees_and_Graphs
+* Chapters from _Algorithms_ by Jeff Erickson:  
+    * [Chapter 5: Basic Graph Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/book/05-graphs.pdf)
     
 ### 2. Important procedures: traversal, heaps, search, etc.
 * [William Fiset's youtube playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P) explaining graph theory topics and algorithms. Not language specific.  
