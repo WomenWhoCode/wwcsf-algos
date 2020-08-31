@@ -32,7 +32,10 @@ ___
     * [Wikipedia : Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
     * [Wikipedia: Spanning forests](https://en.wikipedia.org/wiki/Spanning_tree#Spanning_forests)
 ___
-
+### Medium problems
+Problem Statement | Solution | WWC example
+--- | --- | ---
+[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [leetcode's endorsed solution](https://leetcode.com/problems/maximum-binary-tree/solution/) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/trees)
 ## Problem Sets
 * [Selected leetcode problems](https://leetcode.com/list/?selectedList=xg9na7e1), mixed difficulty
 
