@@ -6,3 +6,7 @@
 .DS_Store
 /**/.DS_Store
 **/.vscode
+**/packages
+/code-examples/sorting/csharp/SortingAlgorithms/.vs/SortingAlgorithms/v16/.suo
+/code-examples/sorting/csharp/SortingAlgorithms/.vs/SortingAlgorithms/v16/TestStore/0/000.testlog
+/code-examples/sorting/csharp/SortingAlgorithms/.vs/SortingAlgorithms/v16/TestStore/0/testlog.manifest
