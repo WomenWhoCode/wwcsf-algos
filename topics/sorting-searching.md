@@ -26,6 +26,7 @@ Problem Statement | Solution | WWC example
 --- | --- | ---
 [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution link](https://leetcode.com/problems/first-bad-version/solution/) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/)
 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution discussion](https://leetcode.com/problems/merge-sorted-array/discuss/?currentPage=1&orderBy=most_votes&query=) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/)
+[Two Sum Problem](https://leetcode.com/problems/two-sum/) | [Solution Discussion](https://leetcode.com/problems/two-sum/discuss/?currentPage=1&orderBy=hot&query=) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/)
 
 
 ### Medium problems
