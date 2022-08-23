@@ -15,7 +15,7 @@ ___
 - Professor Steven Skiena in depth lecture on Backtracking:
     - [Video of the lecture](https://youtu.be/3s-beq2b0EA)
     - [Lecture Notes](https://www3.cs.stonybrook.edu/~skiena/373/current-lectures/lecture15.pdf)
-
+- [Unique Binary Search Trees](https://www.interviewbit.com/problems/unique-binary-search-trees/)
 
 ___
 
