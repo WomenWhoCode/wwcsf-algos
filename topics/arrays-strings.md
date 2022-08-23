@@ -17,6 +17,7 @@ To brush up on arrays, check out the resources below.
     * _Think Python_ is a successor to “How To Think Like A Computer Scientist,” specific to Python. If you’d like to think about arrays in Python, check out [Chapter 10, “Lists”](http://greenteapress.com/thinkpython2/html/thinkpython2011.html)
     * _Think Java_ is the Java version. If you’d like the Java perspective, check out [Chapter 8, “Arrays”](http://greenteapress.com/thinkjava6/html/thinkjava6009.html)
 3. _Harvard CS50 Lectures, 2019_ is a great place to start learning. The demonstration language is C, but you don’t need to know C to follow along. If you expand the bar just below the video window, where it has the picture of the cat for CS50, you can see links to specific timestamps. [Arrays are at 08:44](https://www.youtube.com/watch?v=4IrUAqYKjIA&t=524s)_
+4. Max Product Subarray | Find the contiguous subarray within an array (containing at least one number) which has the largest product. https://www.interviewbit.com/problems/max-product-subarray/
 
 ---
 
